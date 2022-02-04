@@ -1,2 +1,7 @@
 # map-reduce-nallavolu
-practicing mapping &amp; reducing
+
+
+### Raw Data Link
+
+https://github.com/TejaswiNallavolu/map-reduce-nallavolu/blob/main/Piping/customer-data.csv
+
