@@ -13,7 +13,7 @@ practicing mapping &amp; reducing
 https://github.com/TejaswiNallavolu/map-reduce-nallavolu/blob/main/Piping/customer-data.csv
 
 ## Data chart
-The number of people as per their driving experience is clearly demonstrated in the below pie chart.
+The proportion of people as per their driving experience is clearly demonstrated in the below pie chart.
 
 
 ![chart](https://github.com/TejaswiNallavolu/map-reduce-nallavolu/blob/main/Piping/PieChart.JPG)
