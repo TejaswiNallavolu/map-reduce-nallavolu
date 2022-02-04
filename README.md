@@ -1,6 +1,4 @@
 # map-reduce-nallavolu
-
-# map-reduce-nallavolu
 practicing mapping &amp; reducing
 
 # Data set I chose:
@@ -17,3 +15,5 @@ https://github.com/TejaswiNallavolu/map-reduce-nallavolu/blob/main/Piping/custom
 ## Data chart
 The number of people as per their driving experience is clearly demonstrated in the below pie chart.
 
+
+![chart](https://github.com/TejaswiNallavolu/map-reduce-nallavolu/blob/main/Piping/PieChart.JPG)
