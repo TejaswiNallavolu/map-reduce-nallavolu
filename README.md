@@ -15,13 +15,12 @@ practicing mapping &amp; reducing
 
 https://github.com/TejaswiNallavolu/map-reduce-nallavolu/blob/main/Piping/customer-data.csv
 
-## Data chart
-The proportion of people as per their driving experience is clearly demonstrated in the below pie chart.
 
 ## Commands
-cat customer-data.csv | python 22mapper.py > out.txt
+`cat customer-data.csv | python 22mapper.py > out.txt`
 
-cat customer-data.csv | python 22mapper.py | sort | python 22reducer.py > TejuOut.txt
+`cat customer-data.csv | python 22mapper.py | sort | python 22reducer.py > TejuOut.txt`
 
-
+## Data chart
+The proportion of people as per their driving experience is clearly demonstrated in the below pie chart.
 ![chart](https://github.com/TejaswiNallavolu/map-reduce-nallavolu/blob/main/Piping/PieChart.JPG)
