@@ -18,5 +18,10 @@ https://github.com/TejaswiNallavolu/map-reduce-nallavolu/blob/main/Piping/custom
 ## Data chart
 The proportion of people as per their driving experience is clearly demonstrated in the below pie chart.
 
+## Commands
+cat customer-data.csv | python 22mapper.py > out.txt
+
+cat customer-data.csv | python 22mapper.py | sort | python 22reducer.py > TejuOut.txt
+
 
 ![chart](https://github.com/TejaswiNallavolu/map-reduce-nallavolu/blob/main/Piping/PieChart.JPG)
